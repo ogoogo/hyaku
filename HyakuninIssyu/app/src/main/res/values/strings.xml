@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">百人一首</string>
+    <string name="tv_thx_title">答え</string>
+    <string name="bt_thx_back">リストに戻る</string>
+</resources>
